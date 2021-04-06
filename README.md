@@ -1,1 +1,1 @@
-# automation-qaguru-7-git
+Hello, qa.guru students!
