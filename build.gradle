@@ -1,3 +1,7 @@
+repositories {
+    mavenCentral()
+}
+
 def Test = 1;
     $selenideVerdion = '5.20.1';
 
