@@ -1,2 +1,7 @@
-def
-        Test = 1;
+def Test = 1;
+    $selenideVerdion = '5.20.1';
+
+dependencies {
+    testimplementation (
+            "com.codeborne:selenide':$selenideVerdion")
+}
